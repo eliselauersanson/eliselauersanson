@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello there! I'm Elise! 😺
 
-<!--
-**eliselauersanson/eliselauersanson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elise-lauer-sanson/)
+
+
+![Elise's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliselauersanson&show_icons=true&theme=dracula)
+
+### Some technologies that I use
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,postman,python,django,rabbitmq,docker,postgres,mysql,aws,gcp,wordpress,css,html,linux" />
+  </a>
+</p>
